@@ -1,0 +1,8 @@
+opencv-contrib-python==3.4.13.47
+lxml
+tqdm
+tensorflow==2.3.0
+absl-py
+easydict
+matplotlib
+pillow
